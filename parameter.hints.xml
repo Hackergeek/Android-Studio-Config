@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="android.widget.Toast.setGravity(gravity,xOffset,yOffset)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
