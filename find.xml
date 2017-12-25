@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'SVReader'" />
-    <option name="defaultScopeName" value="Module 'SVReader'" />
-    <option name="SEARCH_SCOPE" value="Module 'SVReader'" />
+    <option name="customScope" value="Module 'SVSetUp'" />
+    <option name="defaultScopeName" value="Module 'SVSetUp'" />
+    <option name="SEARCH_SCOPE" value="Module 'SVSetUp'" />
   </component>
 </application>
