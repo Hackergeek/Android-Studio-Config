@@ -1,7 +1,40 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'SVSetUp'" />
-    <option name="defaultScopeName" value="Module 'SVSetUp'" />
-    <option name="SEARCH_SCOPE" value="Module 'SVSetUp'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="WifiFragment.java" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.mxm</mask>
+      <mask>*.mx</mask>
+      <mask>*.m</mask>
+      <mask>*。</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
+      <mask>.java</mask>
+      <mask>W.java</mask>
+      <mask>Wi.java</mask>
+      <mask>Wif.java</mask>
+      <mask>Wifi.java</mask>
+      <mask>WifiF.java</mask>
+      <mask>WifiFr.java</mask>
+      <mask>WifiFra.java</mask>
+      <mask>WifiFrag.java</mask>
+      <mask>WifiFragm.java</mask>
+      <mask>WifiFragme.java</mask>
+      <mask>WifiFragment.java</mask>
+    </recentFileMasks>
   </component>
 </application>
