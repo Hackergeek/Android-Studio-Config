@@ -5,9 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="WifiFragment.java" />
     <recentFileMasks>
-      <mask>*.properties</mask>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
@@ -25,7 +23,6 @@
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
-      <mask>.java</mask>
       <mask>W.java</mask>
       <mask>Wi.java</mask>
       <mask>Wif.java</mask>
@@ -37,6 +34,8 @@
       <mask>WifiFragm.java</mask>
       <mask>WifiFragme.java</mask>
       <mask>WifiFragment.java</mask>
+      <mask>WifiFragmen.java</mask>
+      <mask>.java</mask>
     </recentFileMasks>
   </component>
 </application>
