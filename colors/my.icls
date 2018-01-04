@@ -1,14 +1,39 @@
 <scheme name="my" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2017-08-18T16:59:08</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2.3.3.0</property>
-    <property name="modified">2017-08-18T16:59:18</property>
+    <property name="modified">2018-01-04T09:39:04</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="16" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Monospaced" />
+  <attributes>
+    <option name="BASH.BACKQUOTE">
+      <value>
+        <option name="FOREGROUND" value="c57633" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="BASH.BRACE">
+      <value />
+    </option>
+    <option name="BASH.BRACKET">
+      <value />
+    </option>
+    <option name="BASH.INTERNAL_COMMAND">
+      <value>
+        <option name="FOREGROUND" value="c57633" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="BASH.STRING">
+      <value>
+        <option name="FOREGROUND" value="6a8759" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
