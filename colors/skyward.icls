@@ -1,22 +1,28 @@
-<scheme name="my" version="142" parent_scheme="Darcula">
+<scheme name="skyward" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2017-08-18T16:59:08</property>
+    <property name="created">2018-04-27T18:44:11</property>
     <property name="ide">AndroidStudio</property>
-    <property name="ideVersion">2.3.3.0</property>
-    <property name="modified">2018-02-28T09:43:57</property>
-    <property name="originalScheme">Darcula</property>
+    <property name="ideVersion">3.0.1.0</property>
+    <property name="modified">2018-04-27T19:00:01</property>
+    <property name="originalScheme">my</property>
   </metaInfo>
   <font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code Medium" />
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
     <option name="EDITOR_FONT_SIZE" value="16" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Monospaced" />
-    <option name="EDITOR_FONT_SIZE" value="16" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
-  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Monospaced" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
+  </console-font>
   <attributes>
     <option name="BASH.BACKQUOTE">
       <value>
