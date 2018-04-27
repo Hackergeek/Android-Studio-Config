@@ -4,7 +4,7 @@
     <property name="created">2018-04-27T18:44:11</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.0.1.0</property>
-    <property name="modified">2018-04-27T19:00:01</property>
+    <property name="modified">2018-04-27T19:16:27</property>
     <property name="originalScheme">my</property>
   </metaInfo>
   <font>
@@ -13,16 +13,8 @@
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Monospaced" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
   </font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="16" />
-  </console-font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Monospaced" />
-    <option name="EDITOR_FONT_SIZE" value="16" />
-  </console-font>
   <attributes>
     <option name="BASH.BACKQUOTE">
       <value>
